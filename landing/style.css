@@ -1,0 +1,62 @@
+/*FONTS*/
+body{
+  background-color: #ffd581;
+  color: green;
+  font-size: 25px;
+  font-family: 'Major Mono Display', monospace;
+}
+h1{
+  font-family: 'Major Mono Display', monospace;
+  color: red;
+  font-weight: bold;
+  font-size: 10px;
+}
+h2 {
+  font-family: 'Major Mono Display', monospace;
+  color: #65c6c4;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  text-decoration: none;
+  color: #f77754;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+/*DESIGN*/
+
+#banner {
+  text-align: center;
+  background-image: url(images/charlie-costello-301722-unsplash.jpg);
+  padding: 200px;
+  background-size: cover;
+  color: white;
+}
+
+#banner h1 {
+  font-family: serif;
+  font-size: 50px;
+  color: red;
+}
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+.section {
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#myface {
+  border-radius: 50%;
+}
